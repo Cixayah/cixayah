@@ -35,15 +35,15 @@
 <!-- Contato -->
 <h2 align="center">Contato</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/cixayah/" target="_blank">
+  <a href="https://linkedin.com/in/cixayah/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gabrielviniciodacosta@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://www.linkedin.com/in/cixayah/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://instagram.com/cixayah" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7122aa&height=80&section=footer"/>
   
