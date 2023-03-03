@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/HTML5-F26527?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSHARP-8d3aa3?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SqlServer-4479A1?style=for-the-badge&logo=sqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 <!-- Estudando -->
 <h2 align="center">Estudando</h2>
