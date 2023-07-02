@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8E2DE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+"Cix"+Costa;Tenho+25+anos;Sou+de+Catanduva/SP;+Estudo+programação+focado+em+Front-End;Seja+bem-vind@!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cixayah&bg_color=0d1117&color=fff&line=8E2DE2&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cixayah&bg_color=0d1117&color=fff&line=8E2DE2&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph](https://ashutosh00710.github.io/github-readme-activity-graph))
 
 
 <!-- Estatísticas do GitHub -->
