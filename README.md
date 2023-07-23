@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSHARP-8d3aa3?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-2A7EB2?style=for-the-badge&logo=Python&logoColor=FFD943"/>
 </p>
 <!-- Estudando -->
 <h2 align="center">Estudando</h2>
