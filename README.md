@@ -5,13 +5,9 @@
 
 
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cixayah&theme=radical&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cixayah&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&layout=compact&theme=midnight-purple"/>
   <br/>
-
-    <p align="center">
-        <img height="130px" src="https://github-readme-stats.vercel.app/api?username=cixayah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=midnight-purple" /> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple" />
-    </p>
 
 <!-- Habilidades -->
 <h2 align="center">Habilidades</h2>
