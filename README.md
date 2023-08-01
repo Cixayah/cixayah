@@ -5,8 +5,8 @@
 
 
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cixayah&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&layout=compact&theme=midnight-purple"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=cixayah&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&layout=compact&theme=midnight-purple"/>
   <br/>
 
 <!-- Habilidades -->
