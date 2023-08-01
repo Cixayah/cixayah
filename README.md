@@ -9,8 +9,6 @@
 
 
 <!-- Estatísticas do GitHub -->
-
-  <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
   <br/>
     <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=cixayah&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
