@@ -7,10 +7,10 @@
 <!---GIT STATS--->
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=cixayah&theme=midnight-purple&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=cixayah&theme=radical&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cixayah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=midnight-purple" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cixayah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
     </p>
 
 
