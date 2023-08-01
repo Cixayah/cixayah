@@ -5,10 +5,13 @@
 
 
 <!---GIT STATS--->
-<p align="center">
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cixayah)](https://github.com/cixayah/github-readme-stats)
-</p>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=lroberta569&theme=midnight-purple&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=lroberta569&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=midnight-purple" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lroberta569&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple" />
+    </p>
 
 
 
