@@ -5,8 +5,10 @@
 
 
 <!---GIT STATS--->
+<p align="center">
+ 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cixayah)](https://github.com/cixayah/github-readme-stats)
-
+</p>
 
 
 
