@@ -8,7 +8,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8E2DE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+"Cix"+Costa;Tenho+26+anos;Sou+de+Catanduva/SP;+Estudo+programação+focado+em+Front-End;Seja+bem-vind@!+:%29)](https://git.io/typing-svg)
 
 
-
 <!-- Estatísticas do GitHub -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cixayah&theme=radical&show_icons=true&include_all_commits=true&count_private=true"/>
