@@ -48,7 +48,6 @@
   
 
 
-    </p>
 
 <!-- Habilidades -->
 <h2 align="center">Habilidades</h2>
