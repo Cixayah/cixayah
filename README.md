@@ -1,32 +1,20 @@
-<!-- Cabeçalho -->
+<!-- Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7122aa&height=80&section=header"/>
-</p>
-<!-- Digitação SVG -->
+
+<!-- Typing SVG -->
 <p align="center">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8E2DE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+"Cix"+Costa;Tenho+26+anos;Sou+de+Catanduva/SP;+Estudo+programação+focado+em+Front-End;Seja+bem-vind@!+:%29)](https://git.io/typing-svg)
+!Typing SVG
 
-
-<!-- Estatísticas do GitHub -->
-<!-- Cabeçalho -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7122aa&height=80&section=header"/>
-</p>
-<!-- Digitação SVG -->
+<!-- GitHub Stats -->
+<br/>
 <p align="center">
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=cixayah&theme=synthwave&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
 </p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8E2DE2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gabriel+"Cix"+Costa;Tenho+26+anos;Sou+de+Catanduva/SP;+Estudo+programação+focado+em+Front-End;Seja+bem-vind@!+:%29)](https://git.io/typing-svg)
-
-
-<!-- Estatísticas do GitHub -->
-  <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=cixayah&theme=synthwave&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
-    </p>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cixayah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=synthwave" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=transparent" />
-    </p>
+<p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cixayah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=synthwave" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=synthwave" />
+</p>
 
 <!-- Habilidades -->
 <h2 align="center">Habilidades</h2>
