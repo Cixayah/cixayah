@@ -9,16 +9,16 @@
 
 
 <!-- Estatísticas do GitHub -->
-<details>
+
   <summary><b>:gear: &nbsp;Estatisticas do GitHub</b></summary>
   <br/>
     <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=lroberta569&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=cixayah&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D" />
     </p>
     <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=lroberta569&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=transparent" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lroberta569&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=transparent" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=cixayah&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=transparent" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=transparent" />
     </p>
-</details>
+
 <!-- Habilidades -->
 <h2 align="center">Habilidades</h2>
 <p align="center">
