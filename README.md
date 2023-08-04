@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=node&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-2A7EB2?style=for-the-badge&logo=Python&logoColor=FFD943"/>
 
 </p>
