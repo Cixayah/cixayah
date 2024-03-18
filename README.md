@@ -52,9 +52,7 @@
   <a href="https://instagram.com/cixayah" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-    <a href="https://instagram.com/cixayah" target="_blank">
 
-    </a>
 </p>
 
 <!-- Footer -->
