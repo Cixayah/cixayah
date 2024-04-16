@@ -35,7 +35,8 @@
   <img src="https://img.shields.io/badge/Python-2A7EB2?style=for-the-badge&logo=Python&logoColor=FFD943"/>
  <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>  -->
   <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=nodejs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Linux-070707?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-339933?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-070707?style=for-the-badge&logo=linux&logoColor=white"/>
 
 
 </p>
