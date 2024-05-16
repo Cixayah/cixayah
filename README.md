@@ -1,10 +1,3 @@
-
-
-<div style="display: inline_block"><br>
->
-</div>
-
-
 <!-- Git Stats -->
 <div align="center">
   <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
@@ -40,7 +33,8 @@
   <a href="mailto:gabrielviniciodacosta@gmail.com" target="_blank">
     <img align="center" alt="cix-Gmail" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg">
   </a>
-  <a href="https://instagram.com/cixayah" target="_blank">    
+  <a href="https://instagram.com/cixayah" target="_blank">  
+      <img align="center" alt="cix-Gmail" height="30" width="40" src="https://github.com/dheereshagrwal/colored-icons/raw/master/public/icons/instagram/instagram.svg">
   </a>
   
 
