@@ -1,8 +1,7 @@
 
 
-<!-- Footer -->
 <div style="display: inline_block"><br>
-  <img height="200" width="200" align="right" alt="cix" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/92.gif">
+  <img height="50" width="50" align="right" alt="cix" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/92.gif">
 </div>
 
 
@@ -18,7 +17,7 @@
   <img align="center" alt="cix-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="cix-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-  <img height="200" width="200" align="right" alt="cix" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/93.gif">
+  <img height="50" width="50" align="right" alt="cix" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/93.gif">
 
 </p>
 
@@ -44,7 +43,7 @@
   <a href="https://instagram.com/cixayah" target="_blank">    
   </a>
   
-  <img height="200" width="200" align="right" alt="cix" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif">
+  <img height="50" width="50" align="right" alt="cix" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif">
 
 </p>
 
