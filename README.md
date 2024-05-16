@@ -18,43 +18,38 @@
 <!-- Habilidades -->
 <h2 align="center">Habilidades</h2>
 <p align="center">
- <!-- <img src="https://img.shields.io/badge/HTML5-F26527?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-2A7EB2?style=for-the-badge&logo=Python&logoColor=FFD943"/>
-  <br>
- <!-- <img src="https://img.shields.io/badge/WordPress-0073AA?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WooCommerce-96588a?style=for-the-badge&logo=woocommerce&logoColor=white"/> -->
+  <img align="center" alt="cix-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="cix-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="cix-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
 
 <!-- Estudando -->
 <h2 align="center">Estudando</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-2A7EB2?style=for-the-badge&logo=Python&logoColor=FFD943"/>
- <!-- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>  -->
-   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-377CC8?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-
+  <img align="center" alt="cix-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="cix-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="cix-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="cix-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </p>
 
 <!-- Contato -->
 <h2 align="center">Contato</h2>
 <p align="center">
   <a href="https://linkedin.com/in/cixayah/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img align="center" alt="cix-LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
   <a href="mailto:gabrielviniciodacosta@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img align="center" alt="cix-Gmail" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg">
   </a>
   <a href="https://instagram.com/cixayah" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img align="center" alt="cix-Instagram" height="30" width="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg">
   </a>
-
 </p>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7122aa&height=80&section=footer"/>
+<div style="display: inline_block"><br>
+
+  <img height="200" width="350" align="right" alt="cix" src="https://64.media.tumblr.com/e02a94eb3ed476b9088dae2247218b35/tumblr_pof1ooiEIG1x6a7yto1_500.gifv">
+</div>
+
+
