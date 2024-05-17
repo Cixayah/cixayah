@@ -1,43 +1,40 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋;Eu+sou+Gabriel+Vinícius;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-<!-- Habilidades -->
-<h2 align="center">Habilidades</h2>
-<p align="center">
-  <img align="center" alt="cix-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="cix-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="cix-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-
-
-</p>
-
-<!-- Estudando -->
-<h2 align="center">Estudando</h2>
-<p align="center">
-  <img align="center" alt="cix-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="cix-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="cix-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
-</p>
-
-<!-- Contato -->
-<h2 align="center">Contato</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/cixayah/" target="_blank">
-    <img align="center" alt="cix-LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-  </a>
-  <a href="mailto:gabrielviniciodacosta@gmail.com" target="_blank">
-    <img align="center" alt="cix-Gmail" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/google.svg">
-  </a>
-  <a href="https://instagram.com/cixayah" target="_blank">  
-      <img align="center" alt="cix-Gmail" height="30" width="40" src="https://github.com/dheereshagrwal/colored-icons/raw/master/public/icons/instagram/instagram.svg">
-  </a>
-</p>
-
-  <!-- Git Stats -->
-<div align="center">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cixayah&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Vinícius github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
 </div>
 
+### Habilidades:
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
+### Estudando:
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 
+### Ferramentas:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+
+## Contato
+
+<p align="left">
+<a href="https://linkedin.com/in/cixayah/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="mailto:gabrielviniciodacosta@gmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Gmail-0D1117?style=flat&logo=gmail" alt="gmail"/>
+</a>
+<a href="https://instagram.com/cixayah" target="_blank">  
+  <img align="center" src="https://img.shields.io/badge/-Instagram-0D1117?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
