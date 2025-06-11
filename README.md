@@ -61,10 +61,9 @@ const developer = {
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cixayah&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=50fa7b&text_color=f8f8f2"/>
-
+<br>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cixayah&theme=dracula&hide_border=true&background=282a36&stroke=bd93f9&ring=50fa7b&fire=ffb86c&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=f8f8f2)](https://git.io/streak-stats)
 
 </div>
 
