@@ -1,72 +1,53 @@
-### `// Welcome to my coding playground`
+# Cixayah
 
 <div align="center">
 
-```ascii
-   ██████╗██╗██╗  ██╗ █████╗ ██╗   ██╗ █████╗ ██╗  ██╗
-  ██╔════╝██║╚██╗██╔╝██╔══██╗╚██╗ ██╔╝██╔══██╗██║  ██║
-  ██║     ██║ ╚███╔╝ ███████║ ╚████╔╝ ███████║███████║
-  ██║     ██║ ██╔██╗ ██╔══██║  ╚██╔╝  ██╔══██║██╔══██║
-  ╚██████╗██║██╔╝ ██╗██║  ██║   ██║   ██║  ██║██║  ██║
-   ╚═════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
-                                                      
-              FULL STACK DEVELOPER
-          🐾 Coding with feline precision 🐾
-```
+**Full Stack Developer**  
+*Building digital solutions with precision*
 
 </div>
 
 ---
 
-## 🐈 **ABOUT_ME.exe** 
+## About
 
 ```javascript
 const developer = {
     name: "Cixayah",
-    location: "Code Cat Kingdom 🏰",
-    currentVibe: "Building the future, one paw at a time",
-    languages: ["Portuguese", "English", "Binary", "Meow"],
-    philosophy: "Code is poetry in motion",
-    status: "Always learning, always coding"
+    role: "Full Stack Developer",
+    location: "Brazil",
+    languages: ["Portuguese", "English"],
+    status: "Available for opportunities"
 };
-
-console.log(`${developer.name} is online... 🟢`);
 ```
 
 ---
 
-## 🐱‍💻 **TECH_ARSENAL** 
+## Tech Stack
 
 <div align="center">
 
-### **CORE TECHNOLOGIES**
-
 <table>
 <tr>
-    <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48"/>
-        <br><sub><b>Python</b></sub>
-        <br><sub>🐍 Snake hunting</sub>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+        <br><sub>Python</sub>
     </td>
-    <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48"/>
-        <br><sub><b>TypeScript</b></sub>
-        <br><sub>⚡ Lightning fast</sub>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+        <br><sub>TypeScript</sub>
     </td>
-    <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48"/>
-        <br><sub><b>Next.js</b></sub>
-        <br><sub>🚀 Cat rocket</sub>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+        <br><sub>Next.js</sub>
     </td>
-    <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
-        <br><sub><b>Node.js</b></sub>
-        <br><sub>⚙️ Purr engine</sub>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+        <br><sub>Node.js</sub>
     </td>
-    <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48"/>
-        <br><sub><b>MySQL</b></sub>
-        <br><sub>🗄️ Data vault</sub>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+        <br><sub>MySQL</sub>
     </td>
 </tr>
 </table>
@@ -75,81 +56,33 @@ console.log(`${developer.name} is online... 🟢`);
 
 ---
 
-## 📊 **DIGITAL_STATS** 
+## Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cixayah&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff007f&icon_color=00d4ff&text_color=ffffff"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=cixayah&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=50fa7b&text_color=f8f8f2"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff007f&text_color=ffffff"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cixayah&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=bd93f9&text_color=f8f8f2"/>
 
-</div>
-
-<div align="center">
-
-### 🔥 **CONTRIBUTION STREAK**
-[![GitHub Streak](https://streak-stats.demolab.com?user=cixayah&theme=synthwave&hide_border=true&background=0d1117&stroke=ff007f&ring=00d4ff&fire=ff6b00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff007f&sideLabels=ff007f&dates=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cixayah&theme=dracula&hide_border=true&background=282a36&stroke=bd93f9&ring=50fa7b&fire=ffb86c&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=f8f8f2)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🌐 **SOCIAL_NETWORKS** 
+## Connect
 
 <div align="center">
 
-**Connect with this coding cat:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff007f&color=00d4ff)](https://linkedin.com/in/cixayah)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff007f&color=00d4ff)](https://instagram.com/devcix)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cixayah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/devcix)
 
 </div>
 
 ---
 
-## 🎵 **CURRENTLY_VIBING_TO** 
-
-**Now playing:** Lo-fi beats to code to 🎧  
-**Cat mood:** Focused and caffeinated ☕  
-**Coding playlist:** Synthwave meets purr sounds 🐱
-
----
-
-## 💎 **PHILOSOPHY** 
-
 <div align="center">
 
-```
-"In a world of 1s and 0s,
-be the cat that always lands on its feet"
-        
-         ∧___∧
-        (  ◕   ◕ )
-        _│     │_
-       (___│   │___)
-          Code Cat  
-```
+*"Code is poetry in motion"*
 
 </div>
-
----
-
-## 🐾 **CURRENT PROJECTS**
-
-**Working on:** Secret cat projects 🤫  
-**Learning:** New tricks and technologies  
-**Status:** Always curious, always coding  
-
----
-
-<div align="center">
-
-
-
-
-
-**Welcome to my digital playground!** 🐱‍💻
-
----
-</div>
-
