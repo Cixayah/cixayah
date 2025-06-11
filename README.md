@@ -1,4 +1,3 @@
-# 🐱 **CIXAYAH** 🐱
 ### `// Welcome to my coding playground`
 
 <div align="center">
@@ -145,13 +144,12 @@ be the cat that always lands on its feet"
 
 <div align="center">
 
-### 🌊 **VISITOR COUNTER** 
-[![Profile Views](https://visitcount.itsvg.in/api?id=cixayah&label=Visitors&color=ff007f&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
----
+
+
 
 **Welcome to my digital playground!** 🐱‍💻
 
-*Crafted with 💜 and lots of cat energy by Cixayah*
-
+---
 </div>
+
