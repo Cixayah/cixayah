@@ -1,7 +1,6 @@
-# Cixayah
 
 <div align="center">
-
+    # Gabriel "Cix" Costa
 **Full Stack Developer**  
 *Building digital solutions with precision*
 
