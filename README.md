@@ -12,7 +12,7 @@
 
 ```javascript
 const developer = {
-    name: "Cixayah",
+    name: "Cix",
     role: "Full Stack Developer",
     location: "Brazil",
     languages: ["Portuguese", "English"],
